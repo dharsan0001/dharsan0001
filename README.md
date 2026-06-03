@@ -6,8 +6,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Junior+Data+Analyst+%7C+SQL+%2B+Power+BI+%2B+Python;EDA+%7C+ETL+%7C+Star+Schema+%7C+DAX;MIS+%26+KPI+Reporting+Specialist;B.Tech+AI+%26+Data+Science+%E2%80%94+Anna+University)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=dharsanm1605&label=Profile+Views&color=70a5fd&style=flat-square)](https://github.com/dharsanm1605)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://[linkedin.com/in/dharsanm1605](https://www.linkedin.com/in/dharsan-mathiyalagan-5b4ba03a7/))
+[![Profile Views](https://komarev.com/ghpvc/?username=dharsanm1605&label=Profile+Views&color=70a5fd&style=flat-square)](https://github.com/dharsan0001)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharsan-mathiyalagan-5b4ba03a7/)
 [![Gmail](https://img.shields.io/badge/Gmail-dharsanm1605%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dharsanm1605@gmail.com)
 [![Location](https://img.shields.io/badge/📍_Open_to-Chennai_%7C_Bengaluru_%7C_Remote-38BDAE?style=flat-square)](https://github.com/dharsanm1605)
 
